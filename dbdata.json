@@ -1,0 +1,23 @@
+db.courses.insert({
+   title: 'Introduction to Software Development',
+   code: '1022',
+   year: 1,
+   term: 'SU',
+   credit: 3  
+})
+
+db.courses.insert({
+   title: 'Advanced Object Oriented Programming',
+   code: '2030',
+   year: 2,
+   term: 'SU',
+   credit: 3  
+})
+
+db.courses.insert({
+   title: 'Discrete Math for Computer Science',
+   code: '1019',
+   year: 1,
+   term: 'SU',
+   credit: 3  
+})
